@@ -146,7 +146,7 @@ To successfully run and develop this project, your system should meet the follow
    Check the `vite.config.ts` file to ensure the key and certificates are properly referenced (e.g., `fs.readFileSync(path.resolve(__dirname, '../certs', 'cert.key'))`).
 
 5. **Create a global variable:**
-   go to `qr-based-attendance-system\` and create a file called `.env` with a variable `VITE_API_URL=YOUR API HERE`
+   go to `qr-based-attendance-system/` and create a file called `.env` with a variable `VITE_API_URL=YOUR API HERE`
 
 6. **Start the frontend development server:**
    Run the following command to start the local server.
