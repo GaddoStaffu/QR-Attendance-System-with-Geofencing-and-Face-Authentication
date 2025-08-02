@@ -1,6 +1,6 @@
-# QR-Based-Attendance-System with Geofencing and Face Authentication - In Development
+# QR Based Attendance System with Geofencing and Face Authentication - In Development
 
-A QR Based Attendance System Capstone Project for USTP Alubijid with geofencing and face recognition technology for enhanced security and authentication.
+A QR-Based Attendance System Capstone Project for USTP Alubijid with geofencing and face recognition technology for enhanced security and authentication.
 
 ## Front End
 
