@@ -1,6 +1,6 @@
 # QR-Based-Attendance-System - FastAPI Backend - In Development
 
-A QR Based Attendance System for USTP Alubijid with geofencing and face recognition technology for enhanced security and authentication.
+A QR Based Attendance System Capstone Project for USTP Alubijid with geofencing and face recognition technology for enhanced security and authentication.
 
 ## Front End
 
