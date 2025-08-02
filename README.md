@@ -157,6 +157,6 @@ To successfully run and develop this project, your system should meet the follow
 
 ### Future Development
 
-**Enhance Project Documentation:** Expand and organize the documentation to include clear setup instructions, API references, component usage examples, and contribution guidelines to make the project easier to understand and contribute to.
-**Improve Responsiveness of React Components:** Refactor UI components to ensure consistent behavior and appearance across various screen sizes and devices.  
-**Refactor and Standardize Codebase:** Improve code readability by enforcing consistent formatting, removing unused code, and applying best practices.
+- **Enhance Project Documentation:** Expand and organize the documentation to include clear setup instructions, API references, component usage examples, and contribution guidelines to make the project easier to understand and contribute to.
+- **Improve Responsiveness of React Components:** Refactor UI components to ensure consistent behavior and appearance across various screen sizes and devices.
+- **Refactor and Standardize Codebase:** Improve code readability by enforcing consistent formatting, removing unused code, and applying best practices.
