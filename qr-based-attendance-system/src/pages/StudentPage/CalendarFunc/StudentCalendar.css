@@ -1,0 +1,102 @@
+/* Calendar container styling */
+.calendar-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .calendar-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .calendar-wrapper {
+    height: 600px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  /* Loading and error messages */
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    color: #007bff;
+    margin-top: 20px;
+  }
+  
+  .error {
+    text-align: center;
+    font-size: 18px;
+    color: red;
+    margin-top: 20px;
+  }
+  
+  /* Event hover effect */
+  .rbc-event {
+    background-color: #007bff !important;
+    color: white !important;
+    border: none;
+    border-radius: 4px;
+    padding: 2px 5px;
+  }
+  
+  .rbc-event:hover {
+    background-color: #0056b3 !important;
+    cursor: pointer;
+  }
+  
+  /* Toolbar styling */
+  .rbc-toolbar {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .rbc-toolbar button {
+    background-color: white;
+    color: #007bff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .rbc-toolbar button:hover {
+    background-color: #0056b3;
+    color: white;
+  }
+
+
+  .filter-container {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .filter-container label {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .class-filter-dropdown {
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .class-filter-dropdown:focus {
+    border-color: #007bff;
+  }

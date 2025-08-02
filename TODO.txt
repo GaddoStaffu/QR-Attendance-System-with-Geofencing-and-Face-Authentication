@@ -1,0 +1,9 @@
+
+1. add the arcface model for face embeddings - Added
+2. look for better geolocation apis
+3. add mark student excused - Added
+4. add export attendance - Added
+5. add archieve room function - Added
+6. add student management features in room
+7. add change attendance word details
+8. add archieve attenance schedule 
